@@ -1,0 +1,47 @@
+{
+  "term_meta_bank_1.json": {
+    "name": "term_meta_bank_1.json",
+    "repo": "stephenmk/yomitan-jlpt-vocab",
+    "path": "yomitan-jlpt-vocab/term_meta_bank_1.json",
+    "branch": "main",
+    "kind": "github-file",
+    "version": "83b2cd7407f26c97c65133747316f86fe4282d89",
+    "sha256": "80698c74b0d4efe476db35626b60324007f66d5ca32c0178bf3f9456a0290abf"
+  },
+  "term_meta_bank_2.json": {
+    "name": "term_meta_bank_2.json",
+    "repo": "stephenmk/yomitan-jlpt-vocab",
+    "path": "yomitan-jlpt-vocab/term_meta_bank_2.json",
+    "branch": "main",
+    "kind": "github-file",
+    "version": "83b2cd7407f26c97c65133747316f86fe4282d89",
+    "sha256": "c58e20a6fc2dececf6a5e42bd1163212615ef79deec85e77c6f7c7deb4d4cc7e"
+  },
+  "term_meta_bank_3.json": {
+    "name": "term_meta_bank_3.json",
+    "repo": "stephenmk/yomitan-jlpt-vocab",
+    "path": "yomitan-jlpt-vocab/term_meta_bank_3.json",
+    "branch": "main",
+    "kind": "github-file",
+    "version": "83b2cd7407f26c97c65133747316f86fe4282d89",
+    "sha256": "baeee2da06c41ea973cb54a6118834682b33857128f7d97577f21cbaaae7c51b"
+  },
+  "term_meta_bank_4.json": {
+    "name": "term_meta_bank_4.json",
+    "repo": "stephenmk/yomitan-jlpt-vocab",
+    "path": "yomitan-jlpt-vocab/term_meta_bank_4.json",
+    "branch": "main",
+    "kind": "github-file",
+    "version": "83b2cd7407f26c97c65133747316f86fe4282d89",
+    "sha256": "844590546217e084f8244f3cf9e6eb6054f5f7a370857bf5917fe19d4d83d7a8"
+  },
+  "term_meta_bank_5.json": {
+    "name": "term_meta_bank_5.json",
+    "repo": "stephenmk/yomitan-jlpt-vocab",
+    "path": "yomitan-jlpt-vocab/term_meta_bank_5.json",
+    "branch": "main",
+    "kind": "github-file",
+    "version": "83b2cd7407f26c97c65133747316f86fe4282d89",
+    "sha256": "a169779f5b8e4dbf4aaa86c367e2b0e24721b5d247c8e0c5b37b18189bc1be83"
+  }
+}
